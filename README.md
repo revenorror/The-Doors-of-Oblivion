@@ -26,7 +26,7 @@ New optional extras:
 - (inp) Ashfall patch: Adds Ashfall support for food, misc items, trees, climate etc to DoO additions
 
 Old optional extras:
-- (inp) Alt Masque of Clavicus Vile: replaces the Masque with a design inspired by Skyrim's
+- Alt Masque of Clavicus Vile: replaces the Masque with a design inspired by Skyrim's
 - Azura, red dress
 - (inp) Clavicus Vile, Lord of Souls - Changes Vile's and Barbas's appearances to reflect their depictions in Lord of Souls
 - (inp) Clavicus Vile, Redguard: Changes Vile's appearance to reflect his depiction in Redguard
