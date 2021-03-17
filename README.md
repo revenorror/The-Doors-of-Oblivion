@@ -2,6 +2,8 @@
 
 DOORS OF OBLIVION - full asset rework
 
+This is the initial beta release of my patch, and it has not been thoroughly tested. Everything should work fine but you may run into oddities.
+
 Huge rework of the original mod. If you have previously installed Doors of Oblivion, a full uninstall is recommended, as DoO contained many unused/superfluous files (including ones which would incorrectly overwrite vanilla files), and many more files removed or combined from this patch. A new game is suggested but may work on an existing game. Update with Wrye Mash though.
 - Requires Tamriel Data
 
