@@ -2,6 +2,8 @@
 
 DOORS OF OBLIVION - full asset rework
 
+This is the initial beta release of my patch, and it has not been thoroughly tested. Everything should work fine but you may run into oddities.
+
 Huge rework of the original mod. If you have previously installed Doors of Oblivion, a full uninstall is recommended, as DoO contained many unused/superfluous files (including ones which would incorrectly overwrite vanilla files), and many more files removed or combined from this patch. A new game is suggested but may work on an existing game. Update with Wrye Mash though.
 - Requires Tamriel Data
 
@@ -20,13 +22,13 @@ Improvements over the original:
 - Minor support for Weapon Sheathing (covers most bows) and Glow in the Dahrk
 
 New optional extras:
-- Project Atlas patch: Allows a handful of meshes to use Project Atlas's textures for an additional boots in FPS. Requires textures from my beta atlas update/expansion (https://github.com/revenorror/AtlAd)
+- Project Atlas patch: Allows a handful of meshes to use Project Atlas's textures for an additional boots in FPS. Based off my beta atlas update/expansion (https://github.com/revenorror/AtlAd). Check the repository for BAT files. This patch will overwrite PA's wood pole texture.
 - (inp) HD texture pack: reworked low res textures for congruity with higher res texture replacers
 - Shivering Isles Parasols - Particle Effect: Adds particle effect from Parasol Particles by Melchior Dahrk to the SI parasols
-- (inp) Ashfall patch: Adds Ashfall support for food, misc items, trees, climate etc to DoO additions
+- (inp) Ashfall patch: Adds Ashfall support for food, misc items, trees, climate etc added by DoO
 
 Old optional extras:
 - Alt Masque of Clavicus Vile: replaces the Masque with a design inspired by Skyrim's
 - Azura, red dress
-- (inp) Clavicus Vile, Lord of Souls - Changes Vile's and Barbas's appearances to reflect their depictions in Lord of Souls
+- (inp) Clavicus Vile, Lord of Souls: Changes Vile's and Barbas's appearances to reflect their depictions in Lord of Souls
 - (inp) Clavicus Vile, Redguard: Changes Vile's appearance to reflect his depiction in Redguard
