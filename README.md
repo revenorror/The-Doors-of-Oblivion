@@ -25,7 +25,7 @@ New optional extras:
 - Project Atlas patch: Allows a handful of meshes to use Project Atlas's textures for an additional boots in FPS. Requires textures from my beta atlas update/expansion (https://github.com/revenorror/AtlAd)
 - (inp) HD texture pack: reworked low res textures for congruity with higher res texture replacers
 - Shivering Isles Parasols - Particle Effect: Adds particle effect from Parasol Particles by Melchior Dahrk to the SI parasols
-- (inp) Ashfall patch: Adds Ashfall support for food, misc items, trees, climate etc to DoO additions
+- (inp) Ashfall patch: Adds Ashfall support for food, misc items, trees, climate etc added by DoO
 
 Old optional extras:
 - (inp) Alt Masque of Clavicus Vile: replaces the Masque with a design inspired by Skyrim's
