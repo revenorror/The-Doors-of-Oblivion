@@ -19,16 +19,17 @@ Improvements over the original:
 - Overwrites the original mod esp to remove unused data, swap out some items for T_D equivalents, and change file paths for a neater file structure
 - Cleaned dirty edits from esp
 - Full support for Graphic Herbalism - MWSE/OpenMw Edition
-- Minor support for Weapon Sheathing (covers most bows) and Glow in the Dahrk
+- Minor support for Weapon Sheathing (covers some bows) and Glow in the Dahrk
 
 New optional extras:
 - Project Atlas patch: Allows a handful of meshes to use Project Atlas's textures for an additional boots in FPS. Based off my beta atlas update/expansion (https://github.com/revenorror/AtlAd). Check the repository for BAT files. This patch will overwrite PA's wood pole texture.
 - (inp) HD texture pack: reworked low res textures for congruity with higher res texture replacers
 - Shivering Isles Parasols - Particle Effect: Adds particle effect from Parasol Particles by Melchior Dahrk to the SI parasols
 - (inp) Ashfall patch: Adds Ashfall support for food, misc items, trees, climate etc added by DoO
+- Magicka Expanded patch: migrates conjuration effects to the Magicka Expanded framework for better reliability
 
 Old optional extras:
 - Alt Masque of Clavicus Vile: replaces the Masque with a design inspired by Skyrim's
 - Azura, red dress
-- (inp) Clavicus Vile, Lord of Souls: Changes Vile's and Barbas's appearances to reflect their depictions in Lord of Souls
-- (inp) Clavicus Vile, Redguard: Changes Vile's appearance to reflect his depiction in Redguard
+- Barbas and Clavicus Vile, Lord of Souls: Changes Vile's and Barbas's appearances to reflect their depictions in Lord of Souls
+- Clavicus Vile, Redguard: Changes Vile's appearance to reflect his depiction in Redguard
