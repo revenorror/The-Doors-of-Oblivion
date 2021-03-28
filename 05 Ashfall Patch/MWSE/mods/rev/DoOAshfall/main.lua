@@ -251,11 +251,32 @@ if ashfall then
 		bs_FurnaceN_S10LT_mw = 30
 		bs_FurnaceN_S10L_mw = 30
 		bs_f_baker_oven_in_daed = 50
-		bs_f_rh_braz01_flame = 100
 		bs_in_smelter03mw_mb3 = 120
 		bs_lava_circle_01 = 250
 		["bs_steam boiler_S3_mw"] = 30
 		bs_st_fireplace_dae_grill = 50
+
+		bs_f_rh_braz01_flame = 100
+		bs_braz_mer_on1 = 100
+		bs_braz_mer_on2 = 100
+		bs_brazier_lit = 100
+		bs_DAE_brazier_grn = 100
+		bs_DAE_brazier_grn_si = 100
+		bs_horn_brazier3S_on = 100
+		bs_l_DAE_brazier011_clav_lit = 100
+		bs_l_DAE_brazier021_clav_lit = 100
+		bs_l_DAE_brazier022_clav_lit = 100
+		bs_light_brazier3_lit4 = 100
+		bs_light_dae_brazier_200 = 100
+		bs_light_DAE_brazier00_si1 = 100
+		bs_Light_Fire_grn_ns_si = 100
+		bs_Light_Fire_NoSmoke_64 = 100
+		bs_light_fire_Sm_cv = 100
+		bs_light_lava_vent_fire1 = 100
+		bs_light_mb_DAE_brazier02c = 100
+		bs_Light_mb_lamp_braz1_1 = 100
+		bs_Light_mb_lamp2 = 100
+		bs_pery_light_braz01b = 100
 	}
 
 	ashfall.registerClimates{
